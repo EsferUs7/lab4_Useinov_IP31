@@ -162,6 +162,10 @@ header {
         padding-top: 4px;
         margin-top: -10px;
     }
+
+    body {
+        background-position: 50% 10%;
+    }
 }
 
 /* Main */
